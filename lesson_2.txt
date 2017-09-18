@@ -10,13 +10,29 @@ its a preliminary commit???
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+comparing the staae area with the last commit and the working directory
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+very helpful much wow
+
 How do the diagrams help you visualize the branch structure?
 
+thats what diagrams are for
+
+when you want to make experimental versions
+How do the diagrams help you visualize the branch structure?
+
+tahts what they are for
+
+
 What is the result of merging two branches together? Why do we represent it in
+
+faster
 the diagram the way we do?
+
+a new head, it is easier and annoying that way
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
