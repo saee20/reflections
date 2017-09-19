@@ -14,3 +14,7 @@ forks are inside github, clone makes a copy in the computer and branche are for 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 sometimes it might change during we are offline and we can compere bla blah
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+sending counteless emails, of cours eit is easier with git and github
